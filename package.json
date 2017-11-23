@@ -1,0 +1,9 @@
+{
+  "name": "gp-course-admin-tools",
+  "version": "1.0.0",
+  "description": "Game Programming Course Admin Tools",
+  "main": "tools/create-project.js",
+  "keywords": [],
+  "author": "Richard Marks <ccpsceo@gmail.com>",
+  "license": "MIT"
+}
