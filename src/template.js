@@ -35,7 +35,7 @@ const boot = () => {
 
   game.init && game.init()
 
-  let lastTime = 0
+  let lastTime = Date.now()
   const mainLoop = elapsedTime => {
     const currentTime = Date.now()
     const deltaTime = (currentTime - lastTime) * 0.001
